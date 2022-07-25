@@ -26,6 +26,14 @@ input#iano {
     width: 100px;
 
 }
+
+div#res {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+}
 footer {
     color: white;
     text-align: center;
